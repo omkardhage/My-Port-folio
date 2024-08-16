@@ -26,7 +26,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Master's of Computer Science DR.D.Y.PATIL ACS,Completed in 2026</li>
+        <li>Master&apos;s of Computer Science DR.D.Y.PATIL ACS,Completed in 2026</li>
         <li>Bachelor of Science(Computer Science) DR.D.Y.PATIL ACS,Pimpri Pune Completed in 2023</li>
         <li>12th HSC R J S P M College landewadi Pune Completed in 2020</li>
         <li>10th SSC SRR Agrawal School Bhosari Pune Completed in 2018</li>
