@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
+    title: " Online furniture store",
     description: "Project 2 description",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: " Get live Weather Updates using python -Django",
     description: "Project 3 description",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
@@ -43,7 +43,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
+    title: "Login-Page",
     description: "Authentication and CRUD operations",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
